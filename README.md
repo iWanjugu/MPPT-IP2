@@ -7,7 +7,7 @@
 
   3) Add an upstream remote pointing to the central repo by issuing the following command:
 
-   ` $ git remote add upstream https://github.com/moringaschool/mpft1-ip1.git `
+   ` $ git remote add upstream https://github.com/moringaschool/mpft-ip.git `
 
   4) Complete the independent project.
 
