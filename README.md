@@ -1,9 +1,9 @@
 # Independent Project
 
 ## Instructions
-  1) Please fork the Moringa School ** mpft1-ip1** repo to your own account.
+  1) Please fork the Moringa School **mpft1-ip** repo to your own account.
 
-  2) Clone down **your repo** to your own machine.
+  2) Clone **your forked repo** to your own machine.
 
   3) Add an upstream remote pointing to the central repo by issuing the following command:
 
