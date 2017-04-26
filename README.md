@@ -5,8 +5,8 @@
 
   2) Clone **your forked repo** to your own machine.`
 
-  3) Complete the independent project.
+  3) Fill in the form under the [IP submission](http://moringaprep-ft.herokuapp.com/#10.html) heading in the LMS
 
-  4) Push your commits up to your forked repo.
+  4) Complete the independent project.
   
-  5) Send the link pointing to your repo to your Technical mentor via *slack*
+  5) Push your commits up to your forked repo.
