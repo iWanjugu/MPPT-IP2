@@ -1,0 +1,68 @@
+.jumbotron{
+ background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true");
+ background-size: cover;
+ padding: 120px 30px;
+ width: 100%;
+ height: 636px;
+ margin-bottom: 0;
+ font-family: 'Noto Serif', serif;
+ color: #ffffff;
+}
+
+ #FastFood{
+   font-family: 'Noto Serif', serif;
+ }
+
+ #Drinks{
+   font-family: 'Noto Serif', serif;
+ }
+
+#row1{
+ background-color: #f2f2f2;
+ color: #262626;
+ text-align: center;
+ padding-top:26px;
+ padding-bottom:26px;
+}
+
+#row2{
+ background-color: #ff6600;
+ color: #ffffff;
+ text-align: center;
+ padding-top:26px;
+ padding-bottom:26px;
+}
+
+#col2{
+ background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/breakfast.jpg?raw=true");
+ padding-top:80px;
+ padding-bottom:80px;
+ color: #ffffff;
+ text-align: center;
+}
+
+#col3 {
+background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/lunch.jpg?raw=true");
+padding-top:80px;
+padding-bottom:80px;
+color: #ffffff;
+text-align: center;
+}
+
+#col4 {
+background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/dinner.jpg?raw=true");
+padding-top:80px;
+padding-bottom:80px;
+color: #ffffff;
+text-align: center;
+}
+
+#col8 {
+background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/backgrounds/foodsBg.jpg?raw=true");
+padding-top:290px;
+padding-bottom:290px;
+
+}
+#footer {
+background-color: #e65c00;
+}
