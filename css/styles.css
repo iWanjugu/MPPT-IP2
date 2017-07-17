@@ -1,5 +1,5 @@
 .jumbotron{
- background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true");
+ background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/backgrounds/landing.jpg");
  background-size: cover;
  padding: 120px 30px;
  width: 100%;
@@ -34,7 +34,7 @@
 }
 
 #col2{
- background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/breakfast.jpg?raw=true");
+ background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/breakfast.jpg");
  padding-top:80px;
  padding-bottom:80px;
  color: #ffffff;
@@ -42,7 +42,7 @@
 }
 
 #col3 {
-background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/lunch.jpg?raw=true");
+background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/lunch.jpg");
 padding-top:80px;
 padding-bottom:80px;
 color: #ffffff;
@@ -50,7 +50,7 @@ text-align: center;
 }
 
 #col4 {
-background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/foodtop/dinner.jpg?raw=true");
+background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/dinner.jpg");
 padding-top:80px;
 padding-bottom:80px;
 color: #ffffff;
@@ -58,7 +58,7 @@ text-align: center;
 }
 
 #col8 {
-background-image: url("https://github.com/mwerumuchai/MPPT-IP2/blob/master/ip2/assets/backgrounds/foodsBg.jpg?raw=true");
+background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/backgrounds/foodsBg.jpg");
 padding-top:290px;
 padding-bottom:290px;
 
