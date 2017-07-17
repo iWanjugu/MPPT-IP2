@@ -16,6 +16,10 @@
  #Drinks{
    font-family: 'Noto Serif', serif;
  }
+#button{
+  float: left;
+  position: top;
+}
 
 #row1{
  background-color: #f2f2f2;
