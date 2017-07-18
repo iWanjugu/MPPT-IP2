@@ -61,6 +61,11 @@ color: #ffffff;
 text-align: center;
 }
 
+#h2{
+  color: #ffcc5c;
+  text-align: center;
+}
+
 #col8 {
 background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/backgrounds/foodsBg.jpg");
 padding-top:290px;
