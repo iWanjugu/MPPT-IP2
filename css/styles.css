@@ -1,26 +1,13 @@
 .jumbotron{
- background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/backgrounds/landing.jpg");
+ background-image: url("/home/muchai/Desktop/test/ip2/assets/backgrounds/landing.jpg");
  background-size: cover;
  padding: 120px 30px;
  width: 100%;
  height: 636px;
  margin-bottom: 0;
- font-family: 'Noto Serif', serif;
+ font-family: 'Bellefair', serif;
  color: #ffffff;
 }
-
- #FastFood{
-   font-family: 'Noto Serif', serif;
- }
-
- #Drinks{
-   font-family: 'Noto Serif', serif;
- }
-#button{
-  float: left;
-  position: top;
-}
-
 #row1{
  background-color: #f2f2f2;
  color: #262626;
@@ -30,15 +17,20 @@
 }
 
 #row2{
- background-color: #ff6600;
+ background-color: #FF4500;
  color: #ffffff;
  text-align: center;
  padding-top:26px;
  padding-bottom:26px;
 }
-
+#FastFood{
+  font-family: 'Zilla Slab', serif;
+}
+#Drinks{
+  font-family: 'Zilla Slab', serif;
+}
 #col2{
- background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/breakfast.jpg");
+ background-image: url("/home/muchai/Desktop/test/ip2/assets/foodtop/breakfast.jpg");
  padding-top:80px;
  padding-bottom:80px;
  color: #ffffff;
@@ -46,7 +38,7 @@
 }
 
 #col3 {
-background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/lunch.jpg");
+background-image: url("/home/muchai/Desktop/test/ip2/assets/foodtop/lunch.jpg");
 padding-top:80px;
 padding-bottom:80px;
 color: #ffffff;
@@ -54,23 +46,55 @@ text-align: center;
 }
 
 #col4 {
-background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/foodtop/dinner.jpg");
+background-image: url("/home/muchai/Desktop/test/ip2/assets/foodtop/dinner.jpg");
 padding-top:80px;
 padding-bottom:80px;
 color: #ffffff;
 text-align: center;
 }
-
 #h2{
-  color: #ffcc5c;
+  color: #FF4500;
   text-align: center;
 }
+#button{
+  float: left;
+  position: top;
+}
+#col5 {
+background-image: url("/home/muchai/Desktop/test/ip2/assets/backgrounds/foodsBg.jpg");
+padding-top:280px;
+padding-bottom:200px;
+}
+.tab {
+    overflow: hidden;
+    border: 30px solid #ccc;
+    background-color: #f1f1f1;
+}
 
-#col8 {
-background-image: url("/home/muchai/Desktop/ip2/MPPT-IP2/ip2/assets/backgrounds/foodsBg.jpg");
-padding-top:290px;
-padding-bottom:290px;
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 30px;
+    transition: 0.3s;
+}
 
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+
+.tabcontent {
+    display: none;
+    padding: 30px 40px;
+    border: 5px solid #ccc;
+    border-top: none;
 }
 #footer {
 background-color: #F15A29;
